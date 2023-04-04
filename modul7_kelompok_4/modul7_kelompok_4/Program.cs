@@ -4,8 +4,9 @@
     {
         private static void Main(string[] args)
         {
-            DataMahasiswa1302213018 dataMHS = new DataMahasiswa1302213018();
-            dataMHS.ReadJSON();
+         
+            TeamMembers1302213018 teamMembers = new TeamMembers1302213018();
+            teamMembers.ReadJSON();
         }
     }
 }

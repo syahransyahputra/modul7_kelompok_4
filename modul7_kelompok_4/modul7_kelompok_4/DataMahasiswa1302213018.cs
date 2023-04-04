@@ -27,6 +27,8 @@ namespace modul7_kelompok_4
 
     public class Mahasiswa
     {
+        internal object Member;
+
         public string firstname { get; set; }
         public string lastname { get; set; }
         public string gender { get; set; }

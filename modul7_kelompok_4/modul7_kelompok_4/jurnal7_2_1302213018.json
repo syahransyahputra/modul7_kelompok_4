@@ -1,0 +1,39 @@
+{
+  "members": [
+    {
+      "firstName": "Herlin",
+      "lastName": "Priatna",
+      "gender": "male",
+      "age": 28,
+      "nim": "1302213018"
+    },
+    {
+      "firstName": "Muhammad",
+      "lastName": "Zulfadly",
+      "gender": "male",
+      "age": 32,
+      "nim": "5678568567"
+    },
+    {
+      "firstName": "Syahran",
+      "lastName": "Syahputra",
+      "gender": "male",
+      "age": 24,
+      "nim": "456754675"
+    },
+    {
+      "firstName": "Nurul",
+      "lastName": "Pratiwi",
+      "gender": "female",
+      "age": 24,
+      "nim": "456754675"
+    },
+    {
+      "firstName": "Syahran",
+      "lastName": "Syahputra",
+      "gender": "male",
+      "age": 24,
+      "nim": "456754675"
+    }
+  ]
+}
