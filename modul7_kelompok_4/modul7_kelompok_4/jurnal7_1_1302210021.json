@@ -1,0 +1,20 @@
+{
+   "firstName": "syahran",
+   "lastName": "syahputra",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "semplak",
+       "city": "Bogo",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2A3", "name": "Penjaminan Mutu Perangkat Lunak" }
+       { "code": "CRI2E4", "name": "Basis Data" },
+       { "code": "CRI2G3", "name": "Dasar Jaringan Komputer" }
+       { "code": "CRI2F2", "name": "Proyek Tikat II" },
+       { "code": "CRI2H3", "name": "Pengalaman Pengguna" }
+       { "code": "CRI2B4", "name": "Pemrograman Berorientasi Objek" }
+   ]
+}
